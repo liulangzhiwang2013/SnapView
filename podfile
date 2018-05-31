@@ -1,0 +1,14 @@
+platform:ios,'8.0'
+use_frameworks!
+
+target 'SnapView' do
+    
+    #-- OC库
+
+    
+    #-- Swift4.0
+    pod 'SwiftyJSON', '~> 4.0.0'
+    pod 'SnapKit', '~> 4.0.0'
+    
+    
+end
